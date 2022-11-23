@@ -1,0 +1,4 @@
+﻿  app.c
+E:\PaymentApplication\PaymentApplication\app.c(23,3): warning C4013: 'printf' undefined; assuming extern returning int
+E:\PaymentApplication\PaymentApplication\app.c(13,18): warning C4101: 'transState': unreferenced local variable
+LINK : fatal error LNK1168: cannot open E:\PaymentApplication\x64\Debug\PaymentApplication.exe for writing
